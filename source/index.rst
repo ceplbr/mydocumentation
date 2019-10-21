@@ -15,6 +15,10 @@ Need more commits!
 .. image:: images/publish_point.png
    :width: 600
 
+.. image:: images/publish_point.png
+   :width: 600
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
